@@ -39,21 +39,9 @@ This repository is ideal for learning, experimentation, and showcasing **Generat
 
 ## 📁 Project Structure
 
-├── models/ # Pre-trained model files
-
-├── scripts/ # Inference and helper scripts
-
-├── outputs/ # Generated artwork
-
-├── requirements.txt # Dependencies
-
-├── main.py # Main execution file
+├── main.ipynb # Main execution file
 
 └── README.md # Documentation
-
-### Clone the Repository
-git clone https://github.com/your-username/gan-art-generator.git
-cd gan-art-generator
 
 ### Install Dependencies
 pip install -r requirements.txt
